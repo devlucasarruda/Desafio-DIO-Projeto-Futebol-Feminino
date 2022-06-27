@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685416952367",
+    "project_id": "dio-santander-futebol-feminino",
+    "storage_bucket": "dio-santander-futebol-feminino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685416952367:android:db56a3e340dca833aeccda",
+        "android_client_info": {
+          "package_name": "me.dio.soccernews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685416952367-jivmr80uj9vhpg5284lmlfjrqtkil2qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaqB62usdUp-dL_RdvPuXXU7bwd3XxJas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685416952367-jivmr80uj9vhpg5284lmlfjrqtkil2qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
