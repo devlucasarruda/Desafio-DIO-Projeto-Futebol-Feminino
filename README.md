@@ -16,4 +16,8 @@ App Nativo Android de Notícias Sobre Futebol Feminino (Mês da Mulher). Este re
 --------------------------------------------------------------------------------------------
 
 Modificação feitas por mim [@devlucasarruda](https://github.com/devlucasarruda):
-- ...
+- Atualização da API, para apontar para o clone da API em meu próprio GitHub.
+- Atualização das notícias, para notícias mais recentes.
+- Troca do ícone de inicialização do app.
+- Troca de cores do tema do app.
+- Adição do plugin do Firebase ao app.
